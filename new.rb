@@ -5,3 +5,4 @@ def num_of_dogs
     dog += 1 
     until dog == 5
   end
+  end
