@@ -1,8 +1,7 @@
-def num_of_dogs
-    dog = 0 
+def num_of_dogs(int)
     loop do
     puts "I have 1 dog"
-    dog += 1 
-    until dog == 5
+    int += 1 
+    until int == 5
   end
   end
