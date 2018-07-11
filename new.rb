@@ -3,6 +3,6 @@ def num_of_dogs
     loop do
     puts "I have one dog"
     dog += 1 
-    until dog = 5
+    until dog == 5
   end
 end
